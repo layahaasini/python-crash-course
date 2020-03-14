@@ -1,1 +1,1 @@
-# python_crash_course
+The answers to the exercises of the book Python Crash Course
